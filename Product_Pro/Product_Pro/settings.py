@@ -28,7 +28,7 @@ DEBUG = True
 
 #ALLOWED_HOSTS = ['18.60.156.146', 'localhost', '127.0.0.1']
 #ALLOWED_HOSTS = ['*']
-ALLOWED_HOSTS = ['18.60.156.146']
+ALLOWED_HOSTS = ['18.60.156.146:8000']
 
 # Application definition
 
