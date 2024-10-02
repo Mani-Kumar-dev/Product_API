@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.bg_Product{
+    background:linear-gradient(90deg, rgba(0,0,0,0.8072478991596639) 100%, rgba(0,0,0,0.7232142857142857) 100%),url("../images/bg.jpg"),no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 100vh;
+    background-attachment: fixed;
+    overflow-y: auto;
+}
+ul.list-group {
+    list-style: none;
+}
+th{
+    width: 0;
+}
