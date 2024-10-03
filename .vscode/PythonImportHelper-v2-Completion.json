@@ -303,7 +303,7 @@
         "kind": 5,
         "importPath": "Product_Pro.Product_Pro.settings",
         "description": "Product_Pro.Product_Pro.settings",
-        "peekOfCode": "BASE_DIR = Path(__file__).resolve().parent.parent\n# Quick-start development settings - unsuitable for production\n# See https://docs.djangoproject.com/en/4.2/howto/deployment/checklist/\n# SECURITY WARNING: keep the secret key used in production secret!\nSECRET_KEY = 'django-insecure-t-j&1*#!xtwpk++bmdhd5#-zd!v1uf2bouf0(yx*hn!qtei3a-'\n# SECURITY WARNING: don't run with debug turned on in production!\nDEBUG = True\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [",
+        "peekOfCode": "BASE_DIR = Path(__file__).resolve().parent.parent\n# Quick-start development settings - unsuitable for production\n# See https://docs.djangoproject.com/en/4.2/howto/deployment/checklist/\n# SECURITY WARNING: keep the secret key used in production secret!\nSECRET_KEY = 'django-insecure-t-j&1*#!xtwpk++bmdhd5#-zd!v1uf2bouf0(yx*hn!qtei3a-'\n# SECURITY WARNING: don't run with debug turned on in production!\nDEBUG = True\nALLOWED_HOSTS = ['16.171.160.103','product.com']\n# Application definition\nINSTALLED_APPS = [",
         "detail": "Product_Pro.Product_Pro.settings",
         "documentation": {}
     },
@@ -312,7 +312,7 @@
         "kind": 5,
         "importPath": "Product_Pro.Product_Pro.settings",
         "description": "Product_Pro.Product_Pro.settings",
-        "peekOfCode": "SECRET_KEY = 'django-insecure-t-j&1*#!xtwpk++bmdhd5#-zd!v1uf2bouf0(yx*hn!qtei3a-'\n# SECURITY WARNING: don't run with debug turned on in production!\nDEBUG = True\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',",
+        "peekOfCode": "SECRET_KEY = 'django-insecure-t-j&1*#!xtwpk++bmdhd5#-zd!v1uf2bouf0(yx*hn!qtei3a-'\n# SECURITY WARNING: don't run with debug turned on in production!\nDEBUG = True\nALLOWED_HOSTS = ['16.171.160.103','product.com']\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',",
         "detail": "Product_Pro.Product_Pro.settings",
         "documentation": {}
     },
@@ -321,7 +321,7 @@
         "kind": 5,
         "importPath": "Product_Pro.Product_Pro.settings",
         "description": "Product_Pro.Product_Pro.settings",
-        "peekOfCode": "DEBUG = True\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',",
+        "peekOfCode": "DEBUG = True\nALLOWED_HOSTS = ['16.171.160.103','product.com']\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',",
         "detail": "Product_Pro.Product_Pro.settings",
         "documentation": {}
     },
@@ -330,7 +330,7 @@
         "kind": 5,
         "importPath": "Product_Pro.Product_Pro.settings",
         "description": "Product_Pro.Product_Pro.settings",
-        "peekOfCode": "ALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',\n    'Product_app',",
+        "peekOfCode": "ALLOWED_HOSTS = ['16.171.160.103','product.com']\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',\n    'Product_app',",
         "detail": "Product_Pro.Product_Pro.settings",
         "documentation": {}
     },
